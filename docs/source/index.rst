@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Добро пожаловать в документацию Kepler!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Kepler**, разрабатываемая игра метроидвания.
+Документация включает описание реализованных классов, нод, сцен для игры.
+Структура описания содержит информацию о свойствах, методах, описание механизма взаимодействия.
 
 .. note::
 
-   This project is under active development.
+   Данный материал будет дополняться и изменяться в процессе написания игры.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Главная задача этой Wiki поддерживать понимания всех механик и связей в игре.
